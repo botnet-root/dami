@@ -33,7 +33,7 @@
 +}
 +
 +unless ($host) {
-+    print "Usage:\n\n\tperl $0 -dns [www.example.com] -options\n";
++    print "Usage:\n\n\tperl $0 -dns [173.199.126.95] -options\n";
 +    print "\n\tType 'perldoc $0' for help with options.\n\n";
 +    exit;
 +}
